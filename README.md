@@ -1,4 +1,8 @@
-# final-project-git
+Simple Interest Calculator
+This project is part of the IBM Introduction to Git and GitHub final assignment.
 
+It calculates simple interest based on:
 
-This repository is created for the GitHub final project.
+Principal
+Rate of interest
+Time period
